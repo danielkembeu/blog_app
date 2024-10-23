@@ -1,0 +1,16 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    --fs-normal: 1.6rem;
+    --fs-p: 0.8rem;
+    font-size: var(--fs-normal);
+    transition: font-size 0.2s ease;
+}
+
+body {
+    padding: 0.5rem 4rem;
+    text-align: justify;
+}
+
+p {
+    font-size: var(--fs-p);
+}
