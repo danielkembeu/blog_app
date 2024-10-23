@@ -14,3 +14,6 @@ body {
 p {
     font-size: var(--fs-p);
 }
+span {
+    background-color: blueviolet;
+}
